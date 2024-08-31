@@ -1,4 +1,4 @@
-# automatic-number-plate-Detection-System
+# Automatic-Number-Plate-Detection-System
 
 
 ## data
