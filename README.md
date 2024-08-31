@@ -15,4 +15,4 @@ A licensed plate detector was used to detect license plates. The model was train
 
 ## dependencies
 
-The sort module needs to be downloaded from [this repository](https://github.com/abewley/sort)
+The sort module needs to be downloaded from [this repository.](https://github.com/abewley/sort)
