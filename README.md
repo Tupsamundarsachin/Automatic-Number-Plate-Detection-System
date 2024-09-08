@@ -71,8 +71,8 @@ Script for interpolating missing bounding box data, ensuring continuous tracking
 ## Installation
 Clone the Repository:
 
-git clone https://github.com/Tupsamundarsachin/Automatic-Number-Plate-Detection-System.git
-cd Automatic-Number-Plate-Detection-System
+      git clone https://github.com/Tupsamundarsachin/Automatic-Number-Plate-Detection-System.git
+      cd Automatic-Number-Plate-Detection-System
 
 
 ## Results
