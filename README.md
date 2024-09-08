@@ -1,5 +1,6 @@
 # Automatic-Number-Plate-Detection-System
 
+![plate](https://github.com/user-attachments/assets/812211fa-43f9-4f56-ac4e-219a05e45a6d)
 
 
 
